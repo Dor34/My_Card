@@ -19,9 +19,9 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-light"
         android:text="Happy 15th Birthday, Noah!"
-        android:padding="16dp"
-        android:textColor="#FF5722"
-        android:textSize="24sp"
+        android:padding="30dp"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="26sp"
         android:textStyle="bold"/>
 
     <TextView
@@ -30,9 +30,9 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:fontFamily="sans-serif-light"
-        android:text="From, Dad!"
+        android:text="Love, Dad!"
         android:padding="16dp"
-        android:textColor="#000000"
+        android:textColor="@android:color/black"
         android:textSize="24sp"
         android:textStyle="bold" />
 
